@@ -7,8 +7,13 @@ Assume that I am the CTO for the outsourcing firm which has been chosen to build
 
 
  ## Technologies
- ###sProject is created with :
+ Project is created with :
  
  *   React material-ui
  *   Firebase
  
+# Setup
+To run this project , install it locally using npm.
+* run command in cmd npm install
+* npm install @material-ui/core
+* npm install firebase^4.0.x( The versions of libraries change, and an inconspicuous change might cause many problems later on. It's good to know the version that has been used when our code was working exactly the way we wanted. )
