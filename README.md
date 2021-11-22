@@ -7,7 +7,7 @@ Assume that I am the CTO for the outsourcing firm which has been chosen to build
 
 
  ## Technologies
- #####Project is created with :
+ ###sProject is created with :
  
  *   React material-ui
  *   Firebase
