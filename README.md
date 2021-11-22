@@ -16,4 +16,7 @@ Assume that I am the CTO for the outsourcing firm which has been chosen to build
 To run this project , install it locally using npm.
 * run command in cmd npm install
 * npm install @material-ui/core
-* npm install firebase^4.0.x( The versions of libraries change, and an inconspicuous change might cause many problems later on. It's good to know the version that has been used when our code was working exactly the way we wanted. )
+* npm install firebase^4.0.x (The versions of libraries change, and an inconspicuous change might cause many problems later on. It's good to know the version that has been used when our code was working exactly the way we wanted.)
+
+# Link link of App
+# https://yoga16classes26.herokuapp.com/
