@@ -48,7 +48,7 @@ const Complete_Payment = (e) => {
            })
            .then(() => {
                setLoader(false);
-               alert("Your message has been submitted👍");
+               alert("Thank you for Registering!! ");
            })
            .catch((error) => {
                alert(error.message);
